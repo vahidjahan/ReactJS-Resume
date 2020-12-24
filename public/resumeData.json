@@ -13,7 +13,7 @@
       "neighborhood": "Pasdaran",
       "city":"Tehran",
       "state":"Tehran",
-      "country": "(Iran)"
+      "country": "Iran"
     },
     "website": "https://vahid-jahanbakhsh.ir",
     "resumedownload":"https://vahid-jahanbakhsh.ir/downloadpdf",
@@ -40,7 +40,7 @@
       },
       {
         "name":"skype",
-        "url":"http://skype.com/vahid.jahan",
+        "url":"skype:live:vahid.jahan?call",
         "className":"fa fa-skype"
       },
       {
@@ -55,15 +55,15 @@
     "education":[
       {
         "school":"Shahid Beheshti University",
-        "degree":"Masters in Information Technology Engineering",
+        "degree":"Master in Information Technology Engineering",
         "graduated":"September 2011",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "description":"The coursework involved in information technology master's degree was comprise elements of telecommunications, information security, software development, decision support systems, business information systems and networking"
       },
       {
         "school":"Tabriz University",
         "degree":"Bachelor in Computer Science",
         "graduated":"September 2008",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "description":"Studying toward my bachelor's in computer science I trained to develop computer software, write code in multiple programming languages, and solve computing problems. During the bachelor's program, I could specialize in areas like data analytics, software engineering, and information security."
       }
     ],
     "work":[
