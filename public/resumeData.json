@@ -1,56 +1,52 @@
 {
   "main": {
-    "name":"Tim Baker",
-    "occupation":"(Your Occupation Here)",
-    "description":"Here will be your description. Use this to describe what you do or whatever you feel best describes yourself to a potential employer",
+    "name":"Vahid Jahanbakhsh",
+    "occupation":"Senior Full Stack Developer",
+    "description":"A Technology Enthusiastic",
     "image":"profilepic.jpg",
-    "bio":"Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
-    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
-    "email": "youremailhere@gmail.com",
-    "phone": "555-555-5555",
+    "bio":"A software developer with over a decade of experience in software development and engineering, who is familiar with a wide variety of programming techniques and technologies. I am always passionate about keeping myself up to date with the latest technologies coming on the market and dedicated to working in the software industry. I am a troubleshooter and problem solver by nature and this is always a big help for me to sort out many difficult problems. In recent years I have been working as a senior software engineer at different companies such as MTN Irancell, Carane Enterprise Resource Planning, TickTeb, Narvan etc.",
+    "contactmessage":"please fill the form below if you want to contact me.",
+    "email": "vahid.jahan@live.com",
+    "phone": "+98 935 2000 914",
     "address":{
-      "street":"(Your Street)",
-      "city":"(Your City)",
-      "state":"(Your State)",
-      "zip": "(Your Zip/Postal Code)"
+      "street":"Homayoun St. Nategh Nouri St.",
+      "neighborhood": "Pasdaran",
+      "city":"Tehran",
+      "state":"Tehran",
+      "country": "(Iran)"
     },
-    "website": "http://www.timbakerdev.com",
-    "resumedownload":"http://timbakerdev.com",
+    "website": "https://vahid-jahanbakhsh.ir",
+    "resumedownload":"https://vahid-jahanbakhsh.ir/downloadpdf",
     "social":[
       {
         "name":"facebook",
-        "url":"http://facebook.com/tim.baker.906",
+        "url":"http://facebook.com/vahid.jahanb",
         "className":"fa fa-facebook"
       },
       {
-        "name":"twitter",
-        "url":"http://twitter.com",
-        "className":"fa fa-twitter"
-      },
-      {
-        "name":"google-plus",
-        "url":"http://googleplus.com/tbakerx",
-        "className":"fa fa-google-plus"
-      },
-      {
         "name":"linkedin",
-        "url":"https://www.linkedin.com/in/tim-baker-8420009a/",
+        "url":"https://www.linkedin.com/in/vahid-jahanbakhsh-50341839/",
         "className":"fa fa-linkedin"
       },
       {
         "name":"instagram",
-        "url":"http://instagram.com/tbaker_x",
+        "url":"http://instagram.com/vahidjahan11",
         "className":"fa fa-instagram"
       },
       {
         "name":"github",
-        "url":"http://github.com/tbakerx",
+        "url":"http://github.com/vahidjahan",
         "className":"fa fa-github"
       },
       {
         "name":"skype",
-        "url":"http://skype.com",
+        "url":"http://skype.com/vahid.jahan",
         "className":"fa fa-skype"
+      },
+      {
+        "name":"stackoverflow",
+        "url":"https://stackoverflow.com/users/2084520/vahid",
+        "className":"fa fa-stack-overflow"
       }
     ]
   },
@@ -58,30 +54,67 @@
     "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
     "education":[
       {
-        "school":"University?",
-        "degree":"Masters in Beer tasting",
-        "graduated":"April 2007",
+        "school":"Shahid Beheshti University",
+        "degree":"Masters in Information Technology Engineering",
+        "graduated":"September 2011",
         "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
       },
       {
-        "school":"School #1 Maybe College?",
-        "degree":"What did you study 101",
-        "graduated":"March 2003",
+        "school":"Tabriz University",
+        "degree":"Bachelor in Computer Science",
+        "graduated":"September 2008",
         "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
       }
     ],
     "work":[
       {
-        "company":"Awesome Design Studio",
-        "title":"Senior UX God ",
-        "years":"March 2010 - Present",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "company":"MTN Irancell",
+        "title":"Senior Full Stack Developer ",
+        "years":"January 2015 - Present",
+        "description":"I was part of a great team in MTN Irancell, and we managed to deliver one of the best in the market Customer Lifecycle Management system for telecommunication industry.",
+        "highlights": [
+          "Lead the team to design and develop enterprise applications to fulfill requirements of internal and external customers",
+          "Design a robust architecture for CLM system to handle millions of users and several billions of CDR records",
+          "Design and implement MyIrancell application; MTN Irancell's self-care application",
+          ".Net, HTML5, WebAPI 2, MVVM, Angular, Oracle, Microsoft Identity 2.0, OAuth"
+        ],
+        "location": "Tehran, Iran"
       },
       {
-        "company":"Super Cool Studio",
-        "title":"Junior bug fixer",
-        "years":"March 2007 - February 2010",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "company":"MTN Irancell",
+        "title":"Full Stack Developer",
+        "years":"August 2013 - January 2015",
+        "highlights": [
+          "Develop, validate and communicate modeling solutions, including both relational and dimensional models to implement and use of new/existing BI software tools and systems",
+          "Design, test, and document all new or modified enterprise applications.",
+          "Design and develop application front-end using client side javascript frameworks like angularjs ",
+          "Performance and memory usage optimization of enterprise applications",
+          "C# .Net, HTML5, WebAPI 2, MVVM, angularjs, Oracle, Microsoft Identity 2.0, OAuth"
+        ],
+        "location": "Tehran, Iran"
+      },
+      {
+        "company":"Carane Enterprise Resource Planning",
+        "title":"Senior Software Developer",
+        "years":"May 2010 - August 2013",
+        "highlights": [
+          "Developing an ERP solution using .NET and Windows Forms",
+          "Framework design, Workflow design and performance optimization",
+          "C# .Net, WinForms, Oracle, CaraneFramework (an Oracle based ORM designed and developed from scratch)"
+        ],
+        "location": "Tehran, Iran"
+      },
+      {
+        "company":"Sanatyar",
+        "title":"Junior Software Developer",
+        "years":"September 2008 - May 2010",
+        "highlights": [
+          "Developing an MIS system as Windows Application",
+          "Working with source control systems like TFS",
+          "Analyzing business requirements and designing solution based on them",
+          "Linq-to-SQL as a basis for development"
+        ],
+        "location": "Tehran, Iran"
       }
     ],
     "skills":[
@@ -90,27 +123,28 @@
         "level":"60%"
       },
       {
-        "name":"Illustrator",
-        "level":"55%"
-      },
-      {
-        "name":"ReactJs",
-        "level":"50%"
-      },
-      {
-        "name":"CSS",
-        "level":"90%"
-      },
-      {
-        "name":"HTML5",
+        "name":"C#",
         "level":"80%"
       },
       {
-        "name":"VueJs",
-        "level":"50%"
+        "name":".Net",
+        "level":"80%"
       },
       {
-        "name":"MongoDB",
+        "name":"Angular",
+        "level":"80%"
+      },
+      {
+        "name":"CSS",
+        "level":"70%"
+      },
+      {
+        "name":"HTML5",
+        "level":"70%"
+      },
+      
+      {
+        "name":"SQL Server",
         "level":"80%"
       }
     ]
@@ -118,46 +152,34 @@
   "portfolio":{
     "projects": [
       {
-        "title":"Canadian Wanderlust",
-        "category":"My Travel Blog for my post-university travels",
-        "image":"canadian-wanderlust.jpg",
-        "url":"https://www.canadianwanderlust.com"
+        "title":"My Irancell",
+        "category":"A selfcare application for MTN Irancell subscribers, based on NativeScript and Angular ",
+        "image":"MyIrancell.jpg",
+        "url":"https://my.irancell.ir"
       },
       {
-        "title":"Fury Fighting Gear",
-        "category":"(offline now) A fighting gear company I started",
-        "image":"fury-fighting-gear.jpg",
-        "url":"http://www.timbakerdev.com"
+        "title":"TickTeb",
+        "category":"An application for requesting and serving homecare services, based on AngularJS and .Net",
+        "image":"tickteb.png",
+        "url":"https://www.tickteb.com"
       },
       {
-        "title":"Original Thai Food",
-        "category":"Website I built for a restaurant I like in Thailand",
-        "image":"original-thai-food.jpg",
-        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
-      },
-      {
-        "title":"Resume Website",
-        "category":"A React based resume website template",
-        "image":"resume-website.jpg",
-        "url":"http://www.timbakerdev.com"
-      },
-      {
-        "title":"Smirkspace",
-        "category":"(MVP Only) A React and Meteor based chat University project.",
-        "image":"smirkspace.jpg",
-        "url":"http://www.smirkspace.com"
+        "title":"*730#",
+        "category":"A USSD application to purchase airtime and internet packages of all active telecom operators in Iran",
+        "image":"730.jpg"
       }
+      
     ]
   },
   "testimonials":{
     "testimonials":[
       {
-        "text":"Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
-        "user":"Kareem Abdul Jabbar"
+        "text":"Vahid is a technically gifted team player. He understands the fundamentals of business insights and is aided by understanding a wide range of software technology. Absolute pleasure to work with.",
+        "user":"Athenkosi Mase, COO at Simplus Innovations"
       },
       {
-        "text":"That Tim Baker must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
-        "user":"Steve Wozniak... impersonator"
+        "text":"It’s rare that you come across standout talent like Vahid. Vahid is highly skilled in programming and in other words he's an amazing programmer. He has great skill in analysis and able to solve problems carefully. Vahid’s ability to juggle multiple programming languages was unlike any I’ve seen before. In the end, Vahid would be an asset to any team.",
+        "user":"Ali Yazdani, Senior Cyber Security Engineer at Deposit Solutions"
       }
     ]
   }
