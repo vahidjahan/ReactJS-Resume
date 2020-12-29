@@ -1,77 +1,77 @@
 {
   "main": {
-    "name":"Vahid Jahanbakhsh",
-    "occupation":"Senior Full Stack Developer",
-    "description":"A Technology Enthusiastic",
-    "image":"profilepic.jpg",
-    "bio":"A software developer with over a decade of experience in software development and engineering, who is familiar with a wide variety of programming techniques and technologies. I am always passionate about keeping myself up to date with the latest technologies coming on the market and dedicated to working in the software industry. I am a troubleshooter and problem solver by nature and this is always a big help for me to sort out many difficult problems. In recent years I have been working as a senior software engineer at different companies such as MTN Irancell, Carane Enterprise Resource Planning, TickTeb, Narvan etc.",
-    "contactmessage":"please fill the form below if you want to contact me.",
+    "name": "Vahid Jahanbakhsh",
+    "occupation": "Senior Full Stack Developer",
+    "description": "A Technology Enthusiastic",
+    "image": "profilepic.jpg",
+    "bio": "A software developer with over a decade of experience in software development and engineering, who is familiar with a wide variety of programming techniques and technologies. I am always passionate about keeping myself up to date with the latest technologies coming on the market and dedicated to working in the software industry. I am a troubleshooter and problem solver by nature and this is always a big help for me to sort out many difficult problems. In recent years I have been working as a senior software engineer at different companies such as MTN Irancell, Carane Enterprise Resource Planning, TickTeb, Narvan etc.",
+    "contactmessage": "please fill the form below if you want to contact me.",
     "email": "vahid.jahan@live.com",
     "phone": "+98 935 2000 914",
-    "address":{
-      "street":"Homayoun St. Nategh Nouri St.",
+    "address": {
+      "street": "Homayoun St. Nategh Nouri St.",
       "neighborhood": "Pasdaran",
-      "city":"Tehran",
-      "state":"Tehran",
+      "city": "Tehran",
+      "state": "Tehran",
       "country": "Iran"
     },
     "website": "https://vahid-jahanbakhsh.ir",
-    "resumedownload":"https://vahid-jahanbakhsh.ir/downloadpdf",
-    "social":[
+    "resumedownload": "https://vahid-jahanbakhsh.ir/downloadpdf",
+    "social": [
       {
-        "name":"facebook",
-        "url":"http://facebook.com/vahid.jahanb",
-        "className":"fa fa-facebook"
+        "name": "facebook",
+        "url": "http://facebook.com/vahid.jahanb",
+        "className": "fa fa-facebook"
       },
       {
-        "name":"linkedin",
-        "url":"https://www.linkedin.com/in/vahid-jahanbakhsh-50341839/",
-        "className":"fa fa-linkedin"
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/vahid-jahanbakhsh-50341839/",
+        "className": "fa fa-linkedin"
       },
       {
-        "name":"instagram",
-        "url":"http://instagram.com/vahidjahan11",
-        "className":"fa fa-instagram"
+        "name": "instagram",
+        "url": "http://instagram.com/vahidjahan11",
+        "className": "fa fa-instagram"
       },
       {
-        "name":"github",
-        "url":"http://github.com/vahidjahan",
-        "className":"fa fa-github"
+        "name": "github",
+        "url": "http://github.com/vahidjahan",
+        "className": "fa fa-github"
       },
       {
-        "name":"skype",
-        "url":"skype:live:vahid.jahan?call",
-        "className":"fa fa-skype"
+        "name": "skype",
+        "url": "skype:live:vahid.jahan?call",
+        "className": "fa fa-skype"
       },
       {
-        "name":"stackoverflow",
-        "url":"https://stackoverflow.com/users/2084520/vahid",
-        "className":"fa fa-stack-overflow"
+        "name": "stackoverflow",
+        "url": "https://stackoverflow.com/users/2084520/vahid",
+        "className": "fa fa-stack-overflow"
       }
     ]
   },
-  "resume":{
-    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
-    "education":[
+  "resume": {
+    "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+    "education": [
       {
-        "school":"Shahid Beheshti University",
-        "degree":"Master in Information Technology Engineering",
-        "graduated":"September 2011",
-        "description":"The coursework involved in information technology master's degree was comprise elements of telecommunications, information security, software development, decision support systems, business information systems and networking"
+        "school": "Shahid Beheshti University",
+        "degree": "Master in Information Technology Engineering",
+        "graduated": "September 2011",
+        "description": "The coursework involved in information technology master's degree was comprise elements of telecommunications, information security, software development, decision support systems, business information systems and networking"
       },
       {
-        "school":"Tabriz University",
-        "degree":"Bachelor in Computer Science",
-        "graduated":"September 2008",
-        "description":"Studying toward my bachelor's in computer science I trained to develop computer software, write code in multiple programming languages, and solve computing problems. During the bachelor's program, I could specialize in areas like data analytics, software engineering, and information security."
+        "school": "Tabriz University",
+        "degree": "Bachelor in Computer Science",
+        "graduated": "September 2008",
+        "description": "Studying toward my bachelor's in computer science I trained to develop computer software, write code in multiple programming languages, and solve computing problems. During the bachelor's program, I could specialize in areas like data analytics, software engineering, and information security."
       }
     ],
-    "work":[
+    "work": [
       {
-        "company":"MTN Irancell",
-        "title":"Senior Full Stack Developer ",
-        "years":"January 2015 - Present",
-        "description":"I was part of a great team in MTN Irancell, and we managed to deliver one of the best in the market Customer Lifecycle Management system for telecommunication industry.",
+        "company": "MTN Irancell",
+        "title": "Senior Full Stack Developer ",
+        "years": "January 2015 - Present",
+        "description": "I was part of a great team in MTN Irancell, and we managed to deliver one of the best in the market Customer Lifecycle Management system for telecommunication industry.",
         "highlights": [
           "Lead the team to design and develop enterprise applications to fulfill requirements of internal and external customers",
           "Design a robust architecture for CLM system to handle millions of users and several billions of CDR records",
@@ -81,9 +81,9 @@
         "location": "Tehran, Iran"
       },
       {
-        "company":"MTN Irancell",
-        "title":"Full Stack Developer",
-        "years":"August 2013 - January 2015",
+        "company": "MTN Irancell",
+        "title": "Full Stack Developer",
+        "years": "August 2013 - January 2015",
         "highlights": [
           "Develop, validate and communicate modeling solutions, including both relational and dimensional models to implement and use of new/existing BI software tools and systems",
           "Design, test, and document all new or modified enterprise applications.",
@@ -94,9 +94,9 @@
         "location": "Tehran, Iran"
       },
       {
-        "company":"Carane Enterprise Resource Planning",
-        "title":"Senior Software Developer",
-        "years":"May 2010 - August 2013",
+        "company": "Carane Enterprise Resource Planning",
+        "title": "Senior Software Developer",
+        "years": "May 2010 - August 2013",
         "highlights": [
           "Developing an ERP solution using .NET and Windows Forms",
           "Framework design, Workflow design and performance optimization",
@@ -105,9 +105,9 @@
         "location": "Tehran, Iran"
       },
       {
-        "company":"Sanatyar",
-        "title":"Junior Software Developer",
-        "years":"September 2008 - May 2010",
+        "company": "Sanatyar",
+        "title": "Junior Software Developer",
+        "years": "September 2008 - May 2010",
         "highlights": [
           "Developing an MIS system as Windows Application",
           "Working with source control systems like TFS",
@@ -117,69 +117,71 @@
         "location": "Tehran, Iran"
       }
     ],
-    "skills":[
+    "skills": [
       {
-        "name":"Git",
-        "level":"60%"
+        "name": "Git",
+        "level": "60%"
       },
       {
-        "name":"C#",
-        "level":"80%"
+        "name": "C#",
+        "level": "80%"
       },
       {
-        "name":".Net",
-        "level":"80%"
+        "name": ".Net",
+        "level": "80%"
       },
       {
-        "name":"Angular",
-        "level":"80%"
+        "name": "Angular",
+        "level": "80%"
       },
       {
-        "name":"CSS",
-        "level":"70%"
+        "name": "CSS",
+        "level": "70%"
       },
       {
-        "name":"HTML5",
-        "level":"70%"
+        "name": "HTML5",
+        "level": "70%"
       },
-      
       {
-        "name":"SQL Server",
-        "level":"80%"
+        "name": "SQL Server",
+        "level": "80%"
       }
     ]
   },
-  "portfolio":{
+  "portfolio": {
     "projects": [
       {
-        "title":"My Irancell",
-        "category":"A selfcare application for MTN Irancell subscribers, based on NativeScript and Angular ",
-        "image":"MyIrancell.jpg",
-        "url":"https://my.irancell.ir"
+        "title": "My Irancell",
+        "category": "A selfcare application for MTN Irancell subscribers, based on NativeScript and Angular ",
+        "image": "MyIrancell.jpg",
+        "url": "https://my.irancell.ir"
       },
       {
-        "title":"TickTeb",
-        "category":"An application for requesting and serving homecare services, based on AngularJS and .Net",
-        "image":"tickteb.png",
-        "url":"https://www.tickteb.com"
+        "title": "TickTeb",
+        "category": "An application for requesting and serving homecare services, based on AngularJS and .Net",
+        "image": "tickteb.png",
+        "url": "https://www.tickteb.com"
       },
       {
-        "title":"*730#",
-        "category":"A USSD application to purchase airtime and internet packages of all active telecom operators in Iran",
-        "image":"730.jpg"
+        "title": "*730#",
+        "category": "A USSD application to purchase airtime and internet packages of all active telecom operators in Iran",
+        "image": "730.jpg"
       }
-      
     ]
   },
-  "testimonials":{
-    "testimonials":[
+  "recommendations": {
+    "recommendations": [
       {
-        "text":"Vahid is a technically gifted team player. He understands the fundamentals of business insights and is aided by understanding a wide range of software technology. Absolute pleasure to work with.",
-        "user":"Athenkosi Mase, COO at Simplus Innovations"
+        "text": "I must say it was a privilege to work with Vahid and have him on my team. He is a technical guru in the business intelligence and data management domain with impressive commercial acumen which makes him a natural problem solver. He is detail-oriented and at the same time big picture envisioner. He is calm, focused, and very supportive of the team members. I always enjoyed having a discussion with him on any sort of problem we had to solve together, and his point of view meant a lot to me. He is certainly an asset to any organization or team that he is part of.",
+        "user": "Ayda Honarmand, Senior Customer Experience Consultant at MTN Group"
       },
       {
-        "text":"It’s rare that you come across standout talent like Vahid. Vahid is highly skilled in programming and in other words he's an amazing programmer. He has great skill in analysis and able to solve problems carefully. Vahid’s ability to juggle multiple programming languages was unlike any I’ve seen before. In the end, Vahid would be an asset to any team.",
-        "user":"Ali Yazdani, Senior Cyber Security Engineer at Deposit Solutions"
+        "text": "Vahid is a technically gifted team player. He understands the fundamentals of business insights and is aided by understanding a wide range of software technology. Absolute pleasure to work with.",
+        "user": "Athenkosi Mase, COO at Simplus Innovations"
+      },
+      {
+        "text": "It’s rare that you come across standout talent like Vahid. Vahid is highly skilled in programming and in other words he's an amazing programmer. He has great skill in analysis and able to solve problems carefully. Vahid’s ability to juggle multiple programming languages was unlike any I’ve seen before. In the end, Vahid would be an asset to any team.",
+        "user": "Ali Yazdani, Senior Cyber Security Engineer at Deposit Solutions"
       }
     ]
   }
